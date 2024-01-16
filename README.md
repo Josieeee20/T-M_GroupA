@@ -1,6 +1,6 @@
 # U.S. Presidential Speeches
 ## The visualization of the project
-https://www.canva.com/design/DAF5BMiKL3M/Mwl2cNqbaJuNkJk9R-hePQ/edit
+https://presidentspeechproject.my.canva.site/
 ## Background
 Presidential speeches fulfill essential roles—communicating policies, inspiring citizens, and addressing crises. Whether fostering unity or navigating international relations, they are a powerful tool for leaders to shape public perception, provide direction, and address the nation's pressing concerns.
 ## Research question
